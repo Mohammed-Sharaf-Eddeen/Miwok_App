@@ -45,3 +45,18 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+GUI
+-------
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63277851/88402917-10607200-cdcc-11ea-90f8-edf3baa8eae7.jpg" width="280" title="GUI">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63277851/88402916-0fc7db80-cdcc-11ea-94bc-c62966b19e73.jpg" width="280" title="GUI">
+  <img src="https://user-images.githubusercontent.com/63277851/88402914-0f2f4500-cdcc-11ea-98da-b084e5e38ada.jpg" width="280" title="GUI">
+</p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/63277851/88402912-0f2f4500-cdcc-11ea-9500-de68aa05c150.jpg" width="280" title="GUI">
+   <img src="https://user-images.githubusercontent.com/63277851/88402909-0dfe1800-cdcc-11ea-86d6-9fa6d76d3468.jpg" width="280" title="GUI">
+</p>
